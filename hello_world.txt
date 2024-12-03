@@ -1,2 +1,2 @@
 Hello, World!
-This is the second change.
+こんばんは、世界！
